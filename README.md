@@ -4,7 +4,7 @@
 
 View the URL Shortener in action:
 
-* <https://hlaueriksson.github.io/jekyll-url-shortener/>
+* <https://https://l.neveroff.me/>
 
 ## Upstream
 
