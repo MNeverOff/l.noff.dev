@@ -1,7 +1,7 @@
 title: NeverOff Link Shortener
-description: URL Shortener for NeverOff Dev Projects, courtesy of https://github.com/hlaueriksson/jekyll-url-shortener
+description: URL Shortener for NeverOff Dev Projects, courtesy of <a href="https://github.com/hlaueriksson/jekyll-url-shortener">Henrik Lau Eriksson</a>
 logo: /assets/img/neveroff-logo.png
-show_downloads: true
+show_downloads: false
 google_analytics: G-YQ40PX3B2Z
 theme: jekyll-theme-minimal
 
