@@ -1,5 +1,5 @@
-:scissors: :link: This is a URL shortening repository for making URL Shorteners with Jekyll and GitHub Pages. Created as a template from https://github.com/hlaueriksson/jekyll-url-shortener
+# NeverOff Link Shortener
 
-View it in action:
+## Overview
 
-* <https://https://l.neveroff.me/>
+:scissors: :link: This is a URL shortening repository for making URL Shorteners with Jekyll and GitHub Pages. Created as a template from Henrik Lau Eriksson's [jekyll-url-shortener](https://github.com/hlaueriksson/jekyll-url-shortener)
